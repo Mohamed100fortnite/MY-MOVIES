@@ -1,0 +1,31 @@
+body{
+    background-image: url("popcorn-juice-movie-night_23-2148470131.avif");
+    background-size: cover;
+}
+h1{
+    color: gold;
+}
+p{
+    color: white;
+}
+#x6{
+    color: black  ;
+}
+table{
+    color: black;
+    background-color: gold;
+}
+h2{
+    color: black;
+}
+.h3{
+    color: black;
+}
+input[type="submit"], input[type="reset"]{
+    background-color: white;
+    color: blue;
+}
+input[type="reset"]:focus,
+input[type="reset"]:hover{
+    color: red;
+}
